@@ -4,11 +4,12 @@
 
 ## Requisitos previos
 - Navegador actualizado.
-- Cuenta de correo para alta.
+- Cuenta de correo para darte de alta.
 
 ## Pasos
-1. **Crear base de datos de prueba (15 días)** desde odoo.com (activar por email).
-   - ![Crear BD](../assets/img/03-instalacion/paso01_crear-bd.png "Crear base de datos")
+1. **Seleccionar tu plan de suscripción** desde odoo.com (activar por email).
+   Una vez en la pagina de Odoo, dispondras de distintos apartados, y accederas al de precio, de las distintas opciones vamos a tomar la de la prueba gratuita de la estandar
+   - ![Seleccionar suscripción](../assets/img/03-instalacion/Pantalla_Precios_odoo.png "Seleccionar suscripción")
 2. **Seleccionar apps iniciales** (máximo 10 en la prueba): CRM, Ventas, Facturación, Contabilidad, Proyectos, Documentos, Calendario, etc.
    - ![Seleccionar apps](../assets/img/03-instalacion/paso02_seleccionar-apps.png "Seleccionar apps")
 3. **Instalar/Desinstalar apps** desde *Aplicaciones* (¡cuidado con los datos al desinstalar!).
