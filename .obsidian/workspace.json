@@ -20,6 +20,42 @@
               "icon": "lucide-file",
               "title": "03-instalacion"
             }
+          },
+          {
+            "id": "16603b114077e697",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/aniadir_apps.png"
+              },
+              "icon": "lucide-image",
+              "title": "aniadir_apps"
+            }
+          },
+          {
+            "id": "135d0ff33b252ae8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Tu_menu_de_inicio.png"
+              },
+              "icon": "lucide-image",
+              "title": "Tu_menu_de_inicio"
+            }
+          },
+          {
+            "id": "68439f39a2dcece3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/No_sale_menu_inicio_solo.png"
+              },
+              "icon": "lucide-image",
+              "title": "No_sale_menu_inicio_solo"
+            }
           }
         ]
       }
@@ -182,8 +218,16 @@
   },
   "active": "63d4340cd2eb39e9",
   "lastOpenFiles": [
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Tu_menu_de_inicio.png",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/aniadir_apps.png",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Aplicaciones_Odoo.png",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/No_sale_menu_inicio_solo.png",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Activar_database.png",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Datos_Personales.png",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Pantalla_Precios_Odoo.png",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Personalizacion_opcional.png",
     "2025-11-06.md",
-    "Sin título.canvas",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md"
+    "Sin título.canvas"
   ]
 }
