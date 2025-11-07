@@ -4,7 +4,7 @@
 ## Modo oscuro, A2F, Firma, Notificaciones push
 Odoo nos ofrece la posibilidad de personalizar nuestro entorno y las maneras en las que recibimos notificaciones o firmamos
 
-Para entrar en esta configuración, deberemos acceder a la parte superior de nuestro menu hasta la imagen de nuestro usuario y acceder a preferencias
+Para entrar en esta configuración, deberemos acceder a la parte superior de nuestro menu hasta la imagen de nuestro usuario y acceder a preferencias  
 ![Mis preferencias](/retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/04-ajustes_generales/preferences.png)
 Una vez en el podremos configurar distintos apartados, nada mas acceder podremos configurar el modo oscuro, las notificaciones push en Odoo y la firma de nuestro correo.
 Recomiendo tanto el uso del modo oscuro como las notificaciones de Odoo, ya que el modo oscuro será beneficioso para los ojos en largas sesiones y las notificaciones en Odoo facilitara su uso sin necesidad de enviar todo por correo.
