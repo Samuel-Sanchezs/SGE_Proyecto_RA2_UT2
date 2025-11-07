@@ -4,7 +4,7 @@
    ```bash
    sudo apt update && sudo apt -y upgrade
    ```
-   ![Update/Upgrade](../assets/img/03-preparacion_sistema/paso01_update-upgrade.png "Update/Upgrade")
+   ![Pagina web](/retos/Reto_03_Instalacion_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/No_sale_menu_inicio_solo.png)
 
 2. Configura zona horaria e idioma si procede.
 
