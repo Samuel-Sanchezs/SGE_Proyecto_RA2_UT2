@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/05-integracion_gmail.md",
+                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/06-contactos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-integracion_gmail"
+              "title": "06-contactos"
             }
           }
         ]
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63d4340cd2eb39e9",
+  "active": "039845ca11278f71",
   "lastOpenFiles": [
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Activar_database.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/05-integracion_gmail.md",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/03-instalacion/Activar_database.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/plugin_correo.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/04-ajustes_generales.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/06-contactos.md",
@@ -195,7 +195,6 @@
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/Captura de pantalla 2025-11-07 231146.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/id_cliente.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/Captura de pantalla 2025-11-07 230853.png",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/credenciales.png",
     "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/07-configuracion_odoo.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/07-calendario_y_citas.md",

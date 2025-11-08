@@ -15,7 +15,7 @@ Gestionamos todos los permisos que nos pida iniciando sesión en nuestra cuenta,
 Al abrir el addon te pedirá que para empezar abras un correo de ejemplo  
 ![Correo Ejemplo](/retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/falta_login.png)  
 Como se puede ver, nos falta hacer login en nuestra cuenta, le daremos al boton de Login e introduciremos el enlace a nuestra pagina de Odoo  
-![Login](/retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/login.png)  
+![Login](/retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/Login.png)  
 Una vez inicies sesión te aparecerá una pestaña para permitir a Gmail acceder a tu base de datos  
 ![Gmail Permiso](/retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/05-integracion_gmail/permitir_acceso.png)  
 Debería salir Succes si todo se ha hecho de manera correcta.  
