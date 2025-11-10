@@ -1,7 +1,7 @@
 # 11 — Checklist final
 
-- [ ] Windows actualizado y con permisos de admin.
-- [ ] Instalador de Odoo descargado (versión anotada).
+- [x] Windows actualizado y con permisos de admin.
+- [x] Instalador de Odoo descargado (versión anotada).
 - [ ] PostgreSQL instalado/configurado (usuario/puerto/contraseña).
 - [ ] Odoo instalado sin errores.
 - [ ] Servicio en ejecución.
