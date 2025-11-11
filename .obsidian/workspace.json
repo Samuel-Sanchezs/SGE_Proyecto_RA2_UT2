@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
-                "mode": "source",
-                "source": false
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/01-indice.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "99-bibliografia"
+              "title": "01-indice"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/01-indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 03-instalacion"
+              "title": "Enlaces salientes de 01-indice"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/01-indice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 03-instalacion"
+              "title": "Esquema de 01-indice"
             }
           },
           {
@@ -180,8 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7b73cbd8e676375",
+  "active": "039845ca11278f71",
   "lastOpenFiles": [
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/01-indice.md",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/02-introduccion.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/11-checklist.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/10-troubleshooting.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/09-verificacion.md",
@@ -208,11 +211,8 @@
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/informacion.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/hoja_de_calculo.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/firmar.png",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/02-introduccion.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/00-portada.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/01-indice.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/08-proyectos.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/07-calendario_y_citas.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/06-contactos.md",
