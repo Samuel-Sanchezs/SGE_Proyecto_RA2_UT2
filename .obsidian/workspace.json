@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/99-referencias.md",
+                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/02-introduccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "99-referencias"
+              "title": "02-introduccion"
             }
           }
         ]
@@ -182,12 +182,13 @@
   },
   "active": "63d4340cd2eb39e9",
   "lastOpenFiles": [
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/00-portada.md",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/99-referencias.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/11-tips_y_checklist.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/10-ediciones_y_costes.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/02-introduccion.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/01-indice.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/00-portada.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/09-documentos_firma_info.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/00-portada.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/01-indice.md",
@@ -217,7 +218,6 @@
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/06-contactos.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/05-integracion_gmail.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/04-ajustes_generales.md",
-    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/07-configuracion_odoo.md",
     "Sin título.canvas"
   ]
 }
