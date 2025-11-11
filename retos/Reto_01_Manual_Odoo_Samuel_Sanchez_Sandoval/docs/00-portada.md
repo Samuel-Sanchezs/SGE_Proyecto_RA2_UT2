@@ -1,4 +1,4 @@
-# Manual de Odoo — {Nombre Apellidos}
-**Reto:** Manual_Odoo_{Nombre}_{Apellidos}  
+# Manual de Odoo — {Samuel Sánchez Sandoval}
+**Reto:** Manual_Odoo_{Samuel}_{Sánchez Sandoval}  
 **Proyecto:** Proyecto_RA2_UT2  
-**Fecha:** {YYYY-MM-DD}
+**Fecha:** {2025-11-11}
