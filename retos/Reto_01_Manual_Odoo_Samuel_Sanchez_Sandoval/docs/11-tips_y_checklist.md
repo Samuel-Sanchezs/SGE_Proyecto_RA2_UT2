@@ -12,5 +12,5 @@
 - [x] Gmail/Calendar integrados (si aplica)
 - [x] Contactos importados y etiquetados
 - [x] Proyectos/tareas creados
-- [ ] Documentos y firma probados
-- [ ] Wiki inicial en Información
+- [x] Documentos y firma probados
+- [x] Wiki inicial en Información
