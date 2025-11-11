@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/99-referencias.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "99-referencias"
+              "title": "99-bibliografia"
             }
           }
         ]
@@ -182,6 +182,19 @@
   },
   "active": "a7b73cbd8e676375",
   "lastOpenFiles": [
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/11-checklist.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/10-troubleshooting.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/09-verificacion.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/08-creacion_bd_prueba.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/07-ejecucion_servicio.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/06-configuracion_inicial.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/05-instalacion_odoo.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/04-postgresql_windows.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/03-descarga_instalador.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/02-requisitos_previos.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/01-indice.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/00-portada.md",
+    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/99-referencias.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/11-tips_y_checklist.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/10-ediciones_y_costes.md",
     "Pasted image 20251111222226.png",
@@ -197,22 +210,9 @@
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/firmar.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/02-introduccion.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/00-portada.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/99-referencias.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/01-indice.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/00-portada.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/01-indice.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/02-requisitos_previos.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/10-troubleshooting.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/11-checklist.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/09-verificacion.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/08-creacion_bd_prueba.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/07-ejecucion_servicio.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/03-descarga_instalador.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/04-postgresql_windows.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/05-instalacion_odoo.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/06-configuracion_inicial.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/08-proyectos.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/07-calendario_y_citas.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/06-contactos.md",

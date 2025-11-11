@@ -8,4 +8,4 @@
 - [x] BD de prueba creada.
 - [x] Acceso a `http://localhost:8069` verificado.
 - [x] Capturas en cada sección con nombres correctos.
-- [ ] Bibliografía completada (oficial + técnica).
+- [x] Bibliografía completada (oficial + técnica).
