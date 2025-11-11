@@ -1,7 +1,19 @@
 # 06 — Configuración inicial
 
-1. Localiza archivos de **configuración** (si aplica) y el puerto por defecto (ej. `8069`).
-2. (Opcional) Ajusta idioma, zona horaria, y otros parámetros iniciales.
-3. Anota la **URL de acceso local** (p. ej., `http://localhost:8069`).
+Todos los pasos posteriores no son realmente necesarios ya que Odoo 19 ya le realiza la configuración en el instalador, a menos de que quiera personalizar mas su experiencia.  
 
-> Resultado esperado: parámetros básicos identificados/documentados.
+1. Localiza archivos de **configuración** (si aplica) y el puerto por defecto (ej. `8069`).
+Los archivos deberían estar en
+```bash
+C:\Program Files\Odoo 19.0.20251110\server
+```
+Ahí dentro podrás localizar el archivo
+```bash
+odoo.conf
+```
+Y podrás configurar los puertos usuarios y demás.  
+
+A parte, recuerda siempre que el enlace predeterminado de acceso es 
+```bash
+http://localhost:8069
+```
