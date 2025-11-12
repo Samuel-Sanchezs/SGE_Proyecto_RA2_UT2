@@ -11,7 +11,7 @@
    db_host = 172.0.0.1
    db_port = 5432
    db_user = odoo
-   db_password = False
+   db_password = 1234
    addons_path = **Dejar el predeterminado de Python3**
    logfile = /var/log/odoo/odoo.log
    xmlrpc_port = 8069
