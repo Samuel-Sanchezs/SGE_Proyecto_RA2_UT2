@@ -6,6 +6,9 @@
    sudo apt install python3
    ```
    ```bash
+   sudo apt install python3-dev
+   ```
+   ```bash
    sudo apt install python3-pip
    ```
 
