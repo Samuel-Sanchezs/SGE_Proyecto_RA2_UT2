@@ -1,8 +1,5 @@
 # 10 — Verificación de acceso
+Comprobamos que podemos acceder sin problema a Odoo 19  
 
-- Comprueba el **dashboard** de Odoo en el navegador.
-- Captura con **fecha/hora** visibles.
+![Dashboard](/retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/assets/img/10-verificacion/dashboard.png)  
 
-![Dashboard](../assets/img/10-verificacion/paso01_dashboard.png "Panel principal Odoo")
-
-> Resultado esperado: acceso confirmado a `localhost:8069`.

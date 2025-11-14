@@ -29,6 +29,6 @@ Accedemos al archivo mediante nano
    sudo systemctl status odoo
    ```
 
-![Obtener paquete](/retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/assets/img/08-servicio_systemd/service_status.png) 
+![Estado Servicio](/retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/assets/img/08-servicio_systemd/service_status.png) 
 
 
