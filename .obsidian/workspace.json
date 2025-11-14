@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/07-configuracion_odoo.md",
+                "file": "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/10-verificacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-configuracion_odoo"
+              "title": "10-verificacion"
             }
           }
         ],
@@ -197,13 +197,13 @@
   },
   "active": "d37938fca4ba44e5",
   "lastOpenFiles": [
-    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/08-servicio_systemd.md",
-    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/09-creacion_bd_prueba.md",
-    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/10-verificacion.md",
     "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/11-troubleshooting.md",
-    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
     "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/12-checklist.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/09-creacion_bd_prueba.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/08-servicio_systemd.md",
     "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/07-configuracion_odoo.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/10-verificacion.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
     "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/06-instalacion_odoo.md",
     "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/05-dependencias.md",
     "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/04-postgresql_linux.md",
