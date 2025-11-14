@@ -6,7 +6,7 @@
    nano /etc/odoo/odoo.conf
    ```
    Y ya dentro del fichero deberias modificar o añadir (en caso de no estar) los siguientes datos.
-   ```ini
+   ```bash
    [options]
    db_host = 172.0.0.1
    db_port = 5432
