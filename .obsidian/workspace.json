@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -185,20 +185,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "d37938fca4ba44e5",
   "lastOpenFiles": [
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/01-indice.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/08-servicio_systemd.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/09-creacion_bd_prueba.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/10-verificacion.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/11-troubleshooting.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/12-checklist.md",
     "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/07-configuracion_odoo.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/06-instalacion_odoo.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/05-dependencias.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/04-postgresql_linux.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/03-preparacion_sistema.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/02-requisitos_previos.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Samuel_Sanchez_Sandoval/docs/01-indice.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/01-indice.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/01-indice.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/02-introduccion.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/99-bibliografia.md",
@@ -211,13 +223,7 @@
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/05-instalacion_odoo.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/04-postgresql_windows.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/03-descarga_instalador.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/02-requisitos_previos.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Samuel_Sanchez_Sandoval/docs/00-portada.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/99-referencias.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/11-tips_y_checklist.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/10-ediciones_y_costes.md",
     "Pasted image 20251111222226.png",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/09-documentos_firma_info.md",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/portada.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/Captura de pantalla 2025-11-11 222206.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/acciones.png",
@@ -227,12 +233,6 @@
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/informacion.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/hoja_de_calculo.png",
     "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/assets/img/09-documentos_firma_info/firmar.png",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/00-portada.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/03-instalacion.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/08-proyectos.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/07-calendario_y_citas.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/06-contactos.md",
-    "retos/Reto_01_Manual_Odoo_Samuel_Sanchez_Sandoval/docs/05-integracion_gmail.md",
     "Sin título.canvas"
   ]
 }
